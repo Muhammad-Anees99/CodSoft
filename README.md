@@ -1,3 +1,6 @@
 # CodSoft
 CodSoft Python Internship Tasks
-Calculator and bg23.png must be in same folder
+###################################################
+Impotant Note:
+#Calculator and bg23.png must be in same folder
+##################################################
